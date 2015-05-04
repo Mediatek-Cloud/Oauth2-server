@@ -1,0 +1,33 @@
+{
+  "name": "oauth2-server-mtk",
+  "version": "1.0.0",
+  "description": "Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with [express](http://expressjs.com/) in [node.js](http://nodejs.org/)",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "basic-auth": "~0.0.1"
+  },
+  "devDependencies": {
+    "body-parser": "~1.3.1",
+    "express": "~4.4.3",
+    "mocha": "~1.20.1",
+    "should": "~4.0.4",
+    "supertest": "~0.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamblue/Oauth2-server-mtk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamblue/Oauth2-server-mtk/issues"
+  },
+  "homepage": "https://github.com/iamblue/Oauth2-server-mtk"
+}

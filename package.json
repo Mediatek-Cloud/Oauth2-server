@@ -1,8 +1,8 @@
 {
   "name": "oauth2-server-mtk",
-  "version": "1.0.0",
+  "version": "2.4.0",
   "description": "Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with [express](http://expressjs.com/) in [node.js](http://nodejs.org/)",
-  "main": "index.js",
+  "main": "lib/oauth2server.js",
   "directories": {
     "example": "examples",
     "test": "test"

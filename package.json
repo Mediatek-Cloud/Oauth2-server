@@ -1,5 +1,5 @@
 {
-  "name": "oauth2-server-QCMM",
+  "name": "oauth2-server",
   "version": "2.4.0",
   "description": "Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with [express](http://expressjs.com/) in [node.js](http://nodejs.org/)",
   "main": "lib/oauth2server.js",
@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamblue/Oauth2-server-QCMM.git"
+    "url": "https://github.com/Mediatek-Cloud/Oauth2-server.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamblue/Oauth2-server-QCMM/issues"
+    "url": "https://github.com/Mediatek-Cloud/Oauth2-server/issues"
   },
-  "homepage": "https://github.com/iamblue/Oauth2-server-QCMM"
+  "homepage": "https://github.com/Mediatek-Cloud/Oauth2-server"
 }
